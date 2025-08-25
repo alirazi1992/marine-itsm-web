@@ -64,15 +64,18 @@ src/
    git clone https://github.com/alirazi1992/marine-itsm-web.git
    cd marine-itsm-web
    ```
+
 2. Install dependencies:
    ```bash
     npm install
   ```
+
 3. npm run dev
 
 ```bash
   npm run dev
- ```
+```
+
 4. Open your browser at:
    ```bash
    http://localhost:3000
