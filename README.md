@@ -103,9 +103,13 @@ http://localhost:3000
 ## 📸 UI Preview
 
 Ocean-inspired dashboard and modules for ITSM workflows:
+
 ✅ Dashboard KPIs
+
 ✅ Assets overview
+
 ✅ Service requests tracking
+
 ✅ Maintenance scheduling
 
 --- 
