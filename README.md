@@ -108,7 +108,8 @@ Ocean-inspired dashboard and modules for ITSM workflows:
 ✅ Service requests tracking
 ✅ Maintenance scheduling
 
---- ## 🤝 Contributing 
+--- 
+## 🤝 Contributing 
 
 Feel free to fork the repo and submit PRs or raise issues for any suggastions.
 
