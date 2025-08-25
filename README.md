@@ -77,10 +77,11 @@ src/
   npm run dev
 ```
 
-4. Open your browser at:
-   ```bash
-   http://localhost:3000
-  ```
+4. Open the app in your browser:
+
+```bash
+http://localhost:3000
+```
 ----
 
 ## 🛠️ Tech Stack
