@@ -70,7 +70,7 @@ src/
     npm install
   ```
 
-3. npm run dev
+3. Run the development server:
 
 ```bash
   npm run dev
