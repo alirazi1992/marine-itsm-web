@@ -70,9 +70,8 @@ src/
   ```
 3. npm run dev
 
-  ```bash
+```bash
   npm run dev
- 
  ```
 4. Open your browser at:
    ```bash
