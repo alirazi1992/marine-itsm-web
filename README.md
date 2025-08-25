@@ -69,8 +69,10 @@ src/
     npm install
   ```
 3. npm run dev
+
   ```bash
   npm run dev
+ 
  ```
 4. Open your browser at:
    ```bash
