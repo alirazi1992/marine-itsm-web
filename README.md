@@ -57,7 +57,8 @@ src/
 
 └── assets/ # Static assets (icons, logos)
 
---- ## ⚡ Installation & Setup
+--- 
+## ⚡ Installation & Setup
 
 1. Clone the repo:
    ```bash
